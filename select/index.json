@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "L.P",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-23T04:00:42.086929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "L.P.F.",
+      "artist": "Mother's Finest",
+      "has_synced": true,
+      "path": "select/01_L.P.F._Mother's_Finest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "H.E.L.P. Is On the Way",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/02_H.E.L.P._Is_On_the_Way_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "2 Step Stevie (R.L.P.)",
+      "artist": "Ramirez",
+      "has_synced": true,
+      "path": "select/03_2_Step_Stevie_(R.L.P.)_Ramirez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "H.E.L.P. Is On The Way - 2019 Mix",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/04_H.E.L.P._Is_On_The_Way_-_2019_Mix_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bedroom no yume (L.p.edit)",
+      "artist": "Lovely Summer Chan",
+      "has_synced": true,
+      "path": "select/05_Bedroom_no_yume_(L.p.edit)_Lovely_Summer_Chan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "L.P.C.",
+      "artist": "Multinational Corporations",
+      "has_synced": false,
+      "path": "select/06_L.P.C._Multinational_Corporations.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Look Me In The Heart [L.P. Version]",
+      "artist": "Tina Turner",
+      "has_synced": true,
+      "path": "select/07_Look_Me_In_The_Heart_[L.P._Version]_Tina_Turner.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "H.E.L.P. Is on the Way (2019 mix)",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/08_H.E.L.P._Is_on_the_Way_(2019_mix)_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "M.L.P",
+      "artist": "Grupo Clasificado feat. Jaziel Avilez",
+      "has_synced": true,
+      "path": "select/09_M.L.P_Grupo_Clasificado_feat._Jaziel_Avilez.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Woman, No Cry (L.P. Version)",
+      "artist": "Fugees",
+      "has_synced": true,
+      "path": "select/10_No_Woman,_No_Cry_(L.P._Version)_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cowboys (L.P. Version)",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/11_Cowboys_(L.P._Version)_Fugees.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It'll Be Me (L.P. version)",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": false,
+      "path": "select/12_It'll_Be_Me_(L.P._version)_Jerry_Lee_Lewis.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It'll Be Me (L.P. version)",
+      "artist": "Lewis, Jerry Lee",
+      "has_synced": false,
+      "path": "select/13_It'll_Be_Me_(L.P._version)_Lewis,_Jerry_Lee.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "M.L.P",
+      "artist": "Grupo Clasificado & Jaziel Avilez",
+      "has_synced": true,
+      "path": "select/14_M.L.P_Grupo_Clasificado_&_Jaziel_Avilez.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "LOOP (L∞P)",
+      "artist": "PENTAGON",
+      "has_synced": false,
+      "path": "select/15_LOOP_(L∞P)_PENTAGON.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "LOOP (L∞P)",
+      "artist": "Penta",
+      "has_synced": false,
+      "path": "select/16_LOOP_(L∞P)_Penta.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "P.O.W.E.R.F.U.L. P.I.E.R.R.E",
+      "artist": "Hooton Tennis Club",
+      "has_synced": true,
+      "path": "select/17_P.O.W.E.R.F.U.L._P.I.E.R.R.E_Hooton_Tennis_Club.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "L.P",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_L.P_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
